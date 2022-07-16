@@ -35,3 +35,5 @@ Dentre mais de 700 inscrições, fui uma das 15 mulheres selecionadas para parti
 - Clean Architecture;
 - Autenticação;
 - Middlewares.
+
+![](https://github.com/thaisohashi/use-academy-bootcamp/blob/main/certificado-useacademy.png?raw=true)
